@@ -27,7 +27,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 // $config['base_url'] = 'http://localhost:8080/newpos';        // Please type your Project URL;
 // $config['base_url'] = 'http://103.82.92.247:8080/newpos';        // Please type your Project URL;
 // $config['base_url'] = 'http://89.116.187.91/:8080/newpos';        // Please type your Project URL;
-$config['base_url'] = 'newpos.demogmt.online/';        // Please type your Project URL;
+$config['base_url'] = 'https://newpos.demogmt.online/';        // Please type your Project URL;
 
 /*
 |--------------------------------------------------------------------------
